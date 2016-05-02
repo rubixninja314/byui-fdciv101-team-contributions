@@ -1,0 +1,9 @@
+var numberSections =3;//Make sure this is accurate
+
+function loadClass(num){switch(num){
+  
+/*** SECTION 1 ***/case 1:IDs=[1,2,3,4,5,6,7,8,9,10,11,12,];classNames=['Bulbasuar','Ivysuar','Venusuar','Charmander','Charmeleon','Charizard','Squirtle','Wartortle','Blastoise', 'Caterpie','Metapod','Butterfree',];classTeams=[1,2,3,3,2,1,2,3,1,1,3,2,];break;
+/*** SECTION 2 ***/case 2:IDs=[2,1,8,6,9,11,12,3,13,5,10,7,6];classNames=['Bayleef','Chikorita','Croconaw','Cyndaquil','Feraligatr','Furret','Hoothoot','Meganium','Noctowl','Quilava','Sentret','Totodile','Typhlosion'];classTeams=[3,1,2,2,3,1,2,3,1,3,3,1,2];break;
+/*** SECTION 3 ***/case 3:IDs=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,];classNames=['Chespin','Quilladin','Chesnaught','Fennekin','Braixen','Delphox','Froakie','Frogadier','Greninja','Bunnelby','Diggersby','Fletchling','Fletchinder','Talonflame','Scatterbug','Spewpa','Vivillon','Litleo','Pyroar','Flabebe','Floette','Florges','Skiddo','Gogoat','Pancham','Pangoro','Furfrou','Espurr','Meowstic','Honedge','Doublade','Aegislash','Spritzee','Aromatisse','Swirlix','Slurpuff','Inkay','Malamar','Binacle','Barbaracle','Skrelp','Dragalge','Clauncher','Clawitzer','Helioptile','Heliolisk','Tyrunt','Tyrantrum','Amaura','Aurorus','Sylveon','Hawlucha','Dedenne','Carbink','Goomy','Sliggoo','Goodra','Klefki','Phantump','Trevenant','Pumpkaboo','Gourgeist','Bergmite','Avalugg','Noibat','Noivern','Xerneas','Yveltal','Zygarde','Diancie','Hoopa','Volcanion'];classTeams=[ 10,5,10,1,5,4,6,6,7,2,6,3,9,5,8,8,9,2,8,6,7,3,5,3,4,9,4,5,6,6,1,3,6,2,1,4,3,6,10,7,4,9,2,4,1,3,7,7,6,3,4,1,7,3,2,7,6,6,8,8,4,10,4,2,9,10,8,8,10,9,10,9];break;
+
+}}

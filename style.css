@@ -1,0 +1,28 @@
+.dropdown{
+	position:relative;
+	display:inline-block;
+	background-color:white;
+}
+.dropdown-content{
+	display:none;
+	position:absolute;
+	background-color:white;
+	min-width:160px;
+}
+.dropdown-content a{
+	display: block;
+	background-color:white;
+}
+.sometimesHidden{
+	display:none;
+}
+
+.show{
+	display:inline-block;
+}
+
+div[data-valid="false"]{background-color:red;}
+div[data-valid="true"]{background-color:green;}
+
+div[data-valid="false"] .toggleValid{display:inline;}
+div[data-valid="true"] .toggleValid{display:none;}
