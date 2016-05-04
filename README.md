@@ -1,1 +1,4 @@
-# byui-fdciv101-team-contributions
+# Team contributions (BYUI FDCIV101)
+
+# Instructions for teachers
+Lorem ipsum
